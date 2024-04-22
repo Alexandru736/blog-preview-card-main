@@ -80,6 +80,10 @@ body {
     font-size: 24px;
 }
 
+.title:hover {
+    color: var(--clr-yellow);
+}
+
 .description {
     color: var(--clr-grey);
     font-weight: var(--medium-weight);
